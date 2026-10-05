@@ -1,0 +1,12 @@
+.env
+venv/
+venvapp/
+__pycache__/
+*.pyc
+.pytest_cache/
+Uploads/
+Uploaded_Resumes/
+models/
+data/
+*.db
+.streamlit/
